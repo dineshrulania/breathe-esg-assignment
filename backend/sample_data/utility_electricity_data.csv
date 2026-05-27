@@ -1,0 +1,11 @@
+Meter_ID,Facility_Name,Billing_Period_Start,Billing_Period_End,Total_kWh,Peak_Usage_kWh,Off_Peak_Usage_kWh,Tariff_Type
+MTR-001,Headquarters Building,2024-01-01,2024-01-31,45000,28000,17000,Commercial
+MTR-002,Manufacturing Plant A,2024-01-01,2024-01-31,125000,85000,40000,Industrial
+MTR-003,Warehouse Facility,2024-01-01,2024-01-31,32000,18000,14000,Commercial
+MTR-004,Research Lab,2024-01-01,2024-01-31,18500,12000,6500,Commercial
+MTR-005,Distribution Center,2024-01-01,2024-01-31,55000,35000,20000,Industrial
+MTR-001,Headquarters Building,2024-02-01,2024-02-29,42000,26000,16000,Commercial
+MTR-002,Manufacturing Plant A,2024-02-01,2024-02-29,130000,88000,42000,Industrial
+MTR-003,Warehouse Facility,2024-02-01,2024-02-29,29000,16000,13000,Commercial
+MTR-006,Office Branch North,2024-02-01,2024-02-29,15000,9000,6000,Commercial
+MTR-007,Office Branch South,2024-02-01,2024-02-29,14500,8500,6000,Commercial

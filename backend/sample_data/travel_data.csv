@@ -1,0 +1,16 @@
+Traveler_Name,Travel_Date,Transport_Type,Origin,Destination,Distance_km,Travel_Class,Hotel_Nights
+John Smith,2024-01-10,Flight,JFK,LAX,3983,Economy,
+Sarah Johnson,2024-01-10,Hotel,,,, ,3
+John Smith,2024-01-11,Taxi,,,25,,
+Michael Chen,2024-01-15,Flight,SFO,NRT,8280,Business,
+Michael Chen,2024-01-16,Hotel,,,,,5
+Emily Davis,2024-01-18,Flight,LHR,JFK,5541,Economy,
+Emily Davis,2024-01-19,Car Rental,,,150,,
+Robert Wilson,2024-01-22,Flight,LAX,JFK,3983,Economy,
+Robert Wilson,2024-01-22,Taxi,,,18,,
+Lisa Anderson,2024-01-25,Flight,JFK,LHR,5541,Business,
+Lisa Anderson,2024-01-26,Hotel,,,,,4
+David Martinez,2024-02-01,Flight,LAX,SFO,543,Economy,
+Jennifer Taylor,2024-02-03,Car Rental,,,200,,
+James Brown,2024-02-05,Flight,JFK,LAX,3983,Economy,
+James Brown,2024-02-06,Hotel,,,,,2

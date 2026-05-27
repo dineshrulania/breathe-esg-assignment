@@ -1,0 +1,11 @@
+Plant_Code,Material_Number,Material_Description,Quantity,Unit,Posting_Date,Vendor,Document_Number
+P001,MAT-1001,Diesel Fuel Industrial Grade,5000,L,2024-01-15,Shell Energy,DOC-2024-001
+P001,MAT-1002,Petrol Premium Unleaded,3500,L,2024-01-16,BP Fuels,DOC-2024-002
+P002,MAT-1003,Natural Gas Pipeline,12000,M3,2024-01-17,Gas Networks,DOC-2024-003
+P002,MAT-1001,Diesel Fuel Industrial Grade,4200,L,2024-01-18,Shell Energy,DOC-2024-004
+P003,MAT-1004,LPG Liquefied Petroleum Gas,2800,L,2024-01-19,Total Gas,DOC-2024-005
+P001,MAT-1002,Petrol Premium Unleaded,3100,L,2024-01-20,BP Fuels,DOC-2024-006
+P003,MAT-1001,Diesel Fuel Industrial Grade,6500,L,2024-01-22,Shell Energy,DOC-2024-007
+P002,MAT-1005,Office Supplies Procurement,150,KG,2024-01-23,Office Depot,DOC-2024-008
+P001,MAT-1001,Diesel Fuel Industrial Grade,5500,L,2024-01-25,Shell Energy,DOC-2024-009
+P002,MAT-1003,Natural Gas Pipeline,11500,M3,2024-01-26,Gas Networks,DOC-2024-010
